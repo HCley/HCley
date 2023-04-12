@@ -1,10 +1,3 @@
-
-<?php
-
-// this is a comment
-echo "hello world";
-
-?>
 <img align="right" width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwYzcwNjZlODJiMjUyMDQ4ZWQyNjkxZWI3MzNiNDk3Mzk1MDEwZSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ### <samp>Hello, my friend! Stay awhile and listen</samp>
@@ -105,9 +98,6 @@ echo "hello world";
 [![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
-
-
-
 
 
 <img src="https://img.shields.io/badge/-CSS-blue" /> <img src="https://img.shields.io/badge/-HTML-yellowgreen" /> 
