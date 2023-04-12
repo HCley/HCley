@@ -1,8 +1,15 @@
+
+<?php
+
+// this is a comment
+echo "hello world";
+
+?>
 <img align="right" width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYwYzcwNjZlODJiMjUyMDQ4ZWQyNjkxZWI3MzNiNDk3Mzk1MDEwZSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ### <samp>Hello, my friend! Stay awhile and listen</samp>
 
-### <samp> I'm Cleyson Oliveira, 24 years old </samp>
+### <samp> I'm Cleyson Oliveira, 27 years old </samp>
 
 <samp>Bachelor of Software Engineer from Porto Alegre, Brazil. </samp>
 
@@ -38,6 +45,9 @@
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](https://docs.spring.io/spring-security/reference/index.html)
 [![Hashicorp Vault](https://img.shields.io/badge/Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black)](https://www.hashicorp.com/products/vault)
 
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org)
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
 [![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com)
@@ -79,6 +89,8 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 
 [![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Powershell Script](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/pt-br/powershell/scripting/overview)
