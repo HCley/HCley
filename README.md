@@ -2,7 +2,7 @@
 
 ### <samp>Hello, my friend! Stay awhile and listen</samp>
 
-### <samp> I'm Cleyson Oliveira, 27 years old </samp>
+### <samp> I'm Cleyson Oliveira, 28 years old </samp>
 
 <samp>Bachelor of Software Engineer from Porto Alegre, Brazil. </samp>
 
@@ -10,11 +10,9 @@
 
 - 📚 I’m currently **studying Software Archtecture and solutions**
 
-- 💼 Working as a **Software Architect and mentor at AGES-PUCRS** 
+- 💼 Working as a **Software Architect and mentor at AGES-PUCRS**
 
 - 🔍 Main interests: **Java backend development, architecture and team leadership**
-
-[<img align="right" background="None" filter="invert(1) contrast(1.5)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcley&layout=compact" alt="Most used langs" width="40%" /> ](https://github.com/hcley/github-readme-stats)
 
 - ✨ Some other facts about me: I'm interested in psychology and on the human mind; 3D Printers just fascinate me; Be able to create a project and make it real, just blows my mind.
 
