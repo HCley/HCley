@@ -10,7 +10,7 @@
 
 - 📚 I’m currently **studying Software Archtecture and solutions**
 
-- 💼 Working as a **Software Architect and mentor at AGES-PUCRS**
+- 💼 Working as a **Software Engineer and mentor at [Instituto de Pesquisas Eldorado - POA]([https://www.example.com](https://www.eldorado.org.br/))**
 
 - 🔍 Main interests: **Java backend development, architecture and team leadership**
 
