@@ -11,7 +11,7 @@ permissions:
   contents: write
   
 jobs:
-  report:
+  update-bday:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -20,7 +20,7 @@ jobs:
       - name: Commit report
         run: |
           git config --global user.name ${{ secrets.USER_NAME }}
-          git config --global user.email ${{ secrets.USER_PASSWORD }}
+          git config --global user.email ${{ secrets.USER_EMAIL }}
           git commit -am "Automated update"
           git push
 
