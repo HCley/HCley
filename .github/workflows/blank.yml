@@ -1,0 +1,26 @@
+name: Birthday
+
+on:
+  schedule:
+    - cron: "0 0 14 5 *" # This runs every Sunday at midnight UTC
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update years old
+        run: sed -Ei 's/### <samp> I'\''m Cleyson Oliveira, ([0-9]+) years old <\/samp>/### <samp> I'\''m Cleyson Oliveira, \1+1 years old <\/samp>/e' README.md
+      - name: Commit report
+        run: |
+          git config --global user.name ${{ secrets.USER_NAME }}
+          git config --global user.email ${{ secrets.USER_PASSWORD }}
+          git commit -am "Automated update"
+          git push
+
