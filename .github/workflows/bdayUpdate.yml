@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update years old
-        run: sed -Ei 's/### <samp> I'\''m Cleyson Oliveira, ([0-9]+) years old <\/samp>/### <samp> I'\''m Cleyson Oliveira, \1+1 years old <\/samp>/e' README.md
+        run: perl -0pi -e 's/(\d+)(?= years old)/$1+1/ge' README.md
       - name: Commit report
         run: |
           git config --global user.name ${{ secrets.USER_NAME }}
